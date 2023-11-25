@@ -1,7 +1,7 @@
 # Backend Setup:
 Please find the steps by step instructions in the attached document, that covers how to
 * Create a new PostgreSQL database
-* Connect PostgreSQL database with Django and create required tables
+* Connect PostgreSQL database with Flask and create required tables
 * Import data into the database
 * Start backend server
 
